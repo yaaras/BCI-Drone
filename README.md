@@ -8,3 +8,4 @@ Requirements:
 * Parrot drone
 * Muse
 * Android phone
+* Android Studio
